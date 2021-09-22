@@ -28,7 +28,7 @@ Data Science Portfolio
 
 •	Used oversampling and undersampling techniques to deal with imbalanced data
 
-![image](https://user-images.githubusercontent.com/50717786/134392128-ce818cd2-1799-49d3-9a2e-883e303724e3.png)
+
 
 
 
