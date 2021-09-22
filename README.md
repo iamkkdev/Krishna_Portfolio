@@ -11,6 +11,7 @@ Data Science Portfolio
 •	Used wordcloud to visualize frequent words
 ![](https://github.com/iamkkdev/Krishna_Portfolio/blob/main/images/ROC_curve.png)
 ![](https://github.com/iamkkdev/Krishna_Portfolio/blob/main/images/confusion_matrix.png)
+![](https://github.com/iamkkdev/Krishna_Portfolio/blob/main/images/Twitter_classification.png)
 
 # [Project 2: Experimental Design](https://github.com/iamkkdev/Thinkful-github/blob/master/AB%20Final.ipynb)
 •	Experimental Design using data related with direct marketing campaigns of a Portuguese banking institution.
