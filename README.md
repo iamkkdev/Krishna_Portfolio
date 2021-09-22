@@ -12,9 +12,16 @@ Data Science Portfolio
 
 # [Project 2: Experimental Design](https://github.com/iamkkdev/Thinkful-github/blob/master/AB%20Final.ipynb)
 •	Experimental Design using data related with direct marketing campaigns of a Portuguese banking institution.
+
 •	Performed AB testing on single and married groups
+
 •	Determined which group has higher subscription rate and what can we do to improve the subscription rates
+
 •	Used t-tests, pointplots, histograms, barplots, heatmaps etc..
+
+
+
+
 
 
 	
