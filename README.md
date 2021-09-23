@@ -21,6 +21,8 @@ Data Science Portfolio
 •	Determined which group has higher subscription rate and what can we do to improve the subscription rates
 
 •	Used t-tests, pointplots, histograms, barplots, heatmaps etc..
+![](https://github.com/iamkkdev/Krishna_Portfolio/commit/f34714c01bb077e4b548f1c0de2b989891ee7b38)
+![](https://github.com/iamkkdev/Krishna_Portfolio/commit/f34714c01bb077e4b548f1c0de2b989891ee7b38)
 
 # [Project 3: Predicted the status of startup companies based on various investment factors](https://github.com/iamkkdev/Thinkful-github/blob/master/SUPERVISED%20CAPSTONE.ipynb)
 •	Used Supervised Learning methods to predict the status of startups based on investment factors
@@ -30,6 +32,8 @@ Data Science Portfolio
 •	Dealt with sparse data
 
 •	Used oversampling and undersampling techniques to deal with imbalanced data
+![](https://github.com/iamkkdev/Krishna_Portfolio/blob/main/images/Pred_prob.png)
+![](https://github.com/iamkkdev/Krishna_Portfolio/blob/main/images/ROC_Startups.png)
 
 
 
